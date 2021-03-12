@@ -5,4 +5,4 @@ Allows the user to:
 'd' to delete an existing item, 
 'u' to undo what you just added, 
 'r' to redo what you previously undid).
- Skill Used: Stacks. Technology Used: Python
+ Data Structure: Stacks. Technology Used: Python
